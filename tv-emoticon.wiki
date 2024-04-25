@@ -1,0 +1,27 @@
+wiki/1
+
+§ TV Emoticon
+
+⸺ by Charles Iliya Krempeaux
+
+[[emoticon]]s are [[icon]]s created from multiple characters from a [[character-set]] to represent, for example, a face expressing an emotion, or a heart, or someone shrugging, etc.
+
+These are some example [[emoticon]]s:
+
+	:-)
+
+	<3
+
+	¯\_(ツ)_/¯
+
+The **TV emoticon** is an [[emoticon]] that represents a television (TV).
+
+This is the **TV emoticon**:
+
+	>[]
+
+Like a lot of [[emoticon]]s, this icon is turned — in particular, this icon is turned 90° to the left.
+This icon is of an old style television (TV) that has 2 antennas.
+
+The **TV emoticon** was used by some members of the community associated with the [[videoblogging-mailing-list]].
+For example, **TV emoticon** prominently shown on the old [[vlograzor]] news-aggregator [[web-site]].
