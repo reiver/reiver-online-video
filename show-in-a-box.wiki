@@ -1,0 +1,54 @@
+wiki/1
+
+§ Show In A Box (SIAB)
+
+⸺ by Charles Iliya Krempeaux
+
+The era was the year 2007 to the year 2010.
+
+Back then, video on the Internet and the [[world-wide-web]] was just starting to be practical — it wasn't before.
+
+**Show In A Box**, often initialized to as “**SIAB**”, was __the first__ **open-source social-media software for video** — and it was **decentralized** social-media software.
+
+In this era, both decentralized social-media networks and centralized social-media networks were popular.
+
+The //centralized// social-media network Twitter was not popular yet, and was just getting started — at the time it was mainly populated by very early adopters.
+MySpace was the popular centralized social-media network in this era — it had a lot to do with why another centralized social-media network, YouTube, initially got popular.
+Although, back then, YouTube was mainly used as a way of sharing videos on MySpace (as an embed on MySpace) — because it was the only free video hosting website that supported playing video in (a non defunct technology known as) Flash.
+MySpace's decline later led to the rise of yet another cenralized social-media network: Facebook.
+
+A popular **decentralized** social-media network, in this era, was what was then called the [[blogosphere]] — the distributed network of [[weblog]]s (often shorterned as “[[blog]]s“).
+Although during this era, there was still some debate (that began in the late 1990s) over whether to call one of these a “[[web-log]]”, or a “[[web-journal]]”, or a “[[web-diary]]”.
+As the story goes — “[[web-log]]” won, got concatenated as “[[weblog]]” — someone (not knowing “weblog” = “web” + “log”) thought it was a concatenation for “we” + “blog” (i.e., [[we-blog]]) and shortened it to “[[blog]]”.
+
+Many people had wanted to do **video** over the Internet, and then the Web for years (if not decades).
+As **blogs** rose as a popular form of social-media, some people wanted to do video over **blogs**.
+A community was formed around this idea via a mailing-list — the [[videoblogging-mailing-list]].
+The mailing-list attracted many people interested in video on the Internet and the Web.
+
+At least one person from the [[videoblogging-mailing-list]] shoterned “**video blog**” to “**vlog**”.
+Although “**video log**” (without the “b”) may have also been shortened to “**vlog**”.
+
+A conference related to the [[videoblogging-mailing-list] was created — [[vloggercon]].
+
+And a small number of people from the [[videoblogging-mailing-list]] created **Show in a Box** (**SIAB**):
+
+• Adam W. Warner
+• Charles Iliya Krempeaux
+• Cheryl Colan
+• Devlon Duthie
+• Enric Teller
+• Jacob Redding
+• Jay Dedman
+• Jen Simmons
+• Markus Sandy
+• Michael Verdi
+• Milt Lee
+• Ryanne Hodson
+•• Rudy Jahchan
+
+§§ See Also
+
+• [[videoblogging-mailing-list]]
+• [[vlog]]
+• [[vloggercon]]
