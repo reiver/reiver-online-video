@@ -23,6 +23,7 @@ The **videoblogging mailing list** was the home of the community from which wher
 
 §§ See Also
 
+• [[show-in-a-box]]
 • [[vlog]]
 • [[vloggercon]]
 
