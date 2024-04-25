@@ -1,0 +1,33 @@
+wiki/1
+
+§ Vloggercon
+
+⸺ by Charles Iliya Krempeaux
+
+**Vloggercon** was conference for those involved in (the then nascent) **video and TV on the Internet**.
+
+The official website for **vloggercon** is: http:/((/))vloggercon.com/.
+
+§§ Vloggercon 2006
+
+I attended **Vloggercon 2006**.
+(My brother came with me.)
+
+**Vloggercon 2006**  was held on **June 10th** & **June 11th** in **San Francisco** at the **Swedish American Hall** ''(1)''.
+
+After the last day of Vloggercon, some of the attendees went to **The Mint Karaoke Lounge** ''(2)'' to hang out and sing.
+(I wasn't there, I had to catch a plane before the conference was even over.)
+Some videos of the fun can be seen at: Vloggeraoke ''(3)''.
+
+❦
+
+(1) https:/((/))web.archive.org/web/20070616063716/http://www.swedishamericanhall.com:80/
+
+(2) https:/((/))web.archive.org/web/20060803084858/http://themint.net/
+
+(3) https:/((/))web.archive.org/web/20130908030543/http://vloggeraoke.blogspot.com/
+
+§§ See Also
+
+• [[videoblogging-mailing-list]]
+• [[vlog]]
