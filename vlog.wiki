@@ -4,11 +4,13 @@ wiki/1
 
 ⸺ by Charles Iliya Krempeaux
 
-The word “**vlog**” is short for “**video-blog**”.
+The word “**vlog**” is short for both “**video-log**” and  “**video-blog**”.
 
 A **video-blog** is a **web-blog** whose content includes or is only **video**.
 
-The word “**vlog**” was coined by a member from the community that formed online on the [[videoblogging-mailing-list]].
+A **video-log** content is only **video**.
+
+The word “**vlog**” was coined by member(s) of the community that formed online on the [[videoblogging-mailing-list]].
 
 §§ See Also
 
