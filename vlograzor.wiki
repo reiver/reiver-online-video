@@ -1,0 +1,11 @@
+wiki/1
+
+§ Vlog Razor
+
+⸺ by Charles Iliya Krempeaux
+
+**Vlog Razor** was a news-aggregator [[web-site]] for the [[videoblogging-mailing-list]] community, and anyone else interesting in [[vlogging]].
+
+**Vlog Razor** was created by **Charles Iliya Krempeaux**.
+
+Its Internet domain-name was ``vlograzor.com``
